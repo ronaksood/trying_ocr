@@ -1,0 +1,773 @@
+{
+    "timestamp": 1781048312.238629,
+    "total_images": 50,
+    "total_duration_seconds": 141.51146173477173,
+    "results": [
+        {
+            "image_path": "test/images/00213_jpg.rf.He12j16ACBBYT3514tHp.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.3769192695617676,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/100048264_HR_jpg.rf.FkcvSAX4bhaiLOViE662.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.1317265033721924,
+            "metadata": {
+                "detected_text": [
+                    "CAUTION",
+                    "DO NOT OPERATE UNTIL YOU HAVE READ INSTRUCTIONS"
+                ],
+                "min_value": 0.5,
+                "max_value": 15,
+                "unit": "g/cm\u00b2"
+            }
+        },
+        {
+            "image_path": "test/images/144_PNG_jpg.rf.p11a7BOfLX3s2lJ9cSt9.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.779794931411743,
+            "metadata": {
+                "detected_text": [
+                    "0",
+                    "200",
+                    "400",
+                    "600",
+                    "800",
+                    "1000"
+                ],
+                "min_value": 0,
+                "max_value": 1000,
+                "unit": "mbar"
+            }
+        },
+        {
+            "image_path": "test/images/1657519675023_jpg.rf.HRX0s1yGZjD0S7qXILPZ.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.496521472930908,
+            "metadata": {
+                "detected_text": [
+                    "0",
+                    "10",
+                    "20",
+                    "30",
+                    "40",
+                    "50",
+                    "60",
+                    "70",
+                    "80"
+                ],
+                "min_value": 0,
+                "max_value": 80,
+                "unit": "\u00b0"
+            }
+        },
+        {
+            "image_path": "test/images/20220621_230732215_iOS-jpg-5dhbmnhb-ingestion-585c5dcfbb-tbfh5_jpg.rf.5715O894bc2ZWdgAG6dq.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.1648075580596924,
+            "metadata": {
+                "detected_text": [
+                    "150",
+                    "210",
+                    "270",
+                    "330"
+                ],
+                "min_value": 0,
+                "max_value": 400,
+                "unit": "mm"
+            }
+        },
+        {
+            "image_path": "test/images/227_PNG_jpg.rf.EM386yOfNuTg0W9Bh1zk.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.7006876468658447,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/29014_pdblowers-pressure-gauge_jpg.rf.jBbpo8Mny6mNvYMg02U3.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.6984622478485107,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/35-031-0002_xx_1_jpg.rf.kDi7SY859P7c3utlorJC.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.8741512298583984,
+            "metadata": {
+                "detected_text": [
+                    "1000",
+                    "50",
+                    "300",
+                    "4000",
+                    "350",
+                    "5000"
+                ],
+                "min_value": 0,
+                "max_value": 5000,
+                "unit": "psi"
+            }
+        },
+        {
+            "image_path": "test/images/5a5dcab29b8e42e1bcf811800ee1a9c4_jpeg_jpg.rf.djoAQTwVf3m3oRCs3yHQ.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.07411789894104,
+            "metadata": {
+                "detected_text": [
+                    "Corn-Tan"
+                ],
+                "min_value": 0,
+                "max_value": 100,
+                "unit": "%"
+            }
+        },
+        {
+            "image_path": "test/images/794f7ad4ab274cb6a43ebe225015c7f3_jpeg_jpg.rf.Ex5oE1kkdElHpYV9oHil.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.92376446723938,
+            "metadata": {
+                "detected_text": [
+                    "46",
+                    "50",
+                    "52",
+                    "HERTZ",
+                    "54"
+                ],
+                "min_value": 46,
+                "max_value": 54,
+                "unit": "Hertz"
+            }
+        },
+        {
+            "image_path": "test/images/97c1aa8439994a37807e5727e37f3500_jpeg_jpg.rf.jtRRRgStPdLFYQlmGJk4.jpg",
+            "status": "success",
+            "elapsed_seconds": 5.6201088428497314,
+            "metadata": {
+                "detected_text": [
+                    "TIRE PRESSURE",
+                    "0",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15"
+                ],
+                "min_value": 0,
+                "max_value": 15,
+                "unit": "psi"
+            }
+        },
+        {
+            "image_path": "test/images/Gauges-AMP-AMT-AMZ-TX-series_jpg.rf.8JeCx7DMCdwAdN2eeyCH.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.9831295013427734,
+            "metadata": {
+                "detected_text": [
+                    "RENOIR"
+                ],
+                "min_value": 0,
+                "max_value": 250,
+                "unit": "\u00b0C"
+            }
+        },
+        {
+            "image_path": "test/images/IMG_5898_JPG_jpg.rf.zCRKB4oCbgWhcxRaYKx9.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.3262338638305664,
+            "metadata": {
+                "detected_text": [
+                    "02",
+                    "04",
+                    "06",
+                    "08"
+                ],
+                "min_value": 0,
+                "max_value": 8,
+                "unit": "kg"
+            }
+        },
+        {
+            "image_path": "test/images/IMG_6016_JPG_jpg.rf.Ee36TpvtRj5WTHhNu8A6.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.1923227310180664,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/IMG_6328_JPG_jpg.rf.VSyV5q5HlyjUlDEvvSSF.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.356353759765625,
+            "metadata": {
+                "detected_text": [],
+                "min_value": 0,
+                "max_value": 100,
+                "unit": "\u00b0"
+            }
+        },
+        {
+            "image_path": "test/images/Screenshot-2024-07-22-165426_png-jpg-5dhbv2t6-ingestion-585c5dcfbb-ltlqg_jpg.rf.oiDISDMiIduqKaVL1108.jpg",
+            "status": "success",
+            "elapsed_seconds": 16.927456855773926,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/b230a7749dc8140e899dde0865c0267c_jpeg_jpg.rf.4qipq9faBSNQYqvFDgYK.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.0517375469207764,
+            "metadata": {
+                "detected_text": [
+                    "04",
+                    "12",
+                    "\u538b\u529b\u8868"
+                ],
+                "min_value": 0.0,
+                "max_value": 12.0,
+                "unit": "\u65e0\u5355\u4f4d"
+            }
+        },
+        {
+            "image_path": "test/images/e1d47e404bdb4be1b59e5ccc7dbb6477_jpeg_jpg.rf.lSA4lela7CDMfsALgnpT.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.2001838684082031,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/gasthermometer_73_en_co_rs_w738_h415_image_jpg.rf.YyVJXiUNmYA5RDDCivee.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.1928117275238037,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-1075503040-612x612_jpg.rf.OtViwg7OAyJPpAuDpHRR.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.371004343032837,
+            "metadata": {
+                "detected_text": [
+                    "K",
+                    "S"
+                ],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-1210792728-612x612_jpg.rf.LX0EPeHa7RCfXaWRN9RO.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.7808761596679688,
+            "metadata": {
+                "detected_text": [
+                    "0",
+                    "5",
+                    "10",
+                    "15"
+                ],
+                "min_value": 0,
+                "max_value": 15,
+                "unit": "unspecified"
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-1341265903-612x612_jpg.rf.Ud7fQ5H7hsDplKw2r6HP.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.6001577377319336,
+            "metadata": {
+                "detected_text": [
+                    "5000",
+                    "4000",
+                    "3000",
+                    "2000",
+                    "1000"
+                ],
+                "min_value": 0,
+                "max_value": 5000,
+                "unit": "psi"
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-1365002195-612x612_jpg.rf.CBmtb81N4L8ksLnO90WT.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.1972301006317139,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-183247657-612x612_jpg.rf.fueD3Ypf45OZPiuO8yYO.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.3258249759674072,
+            "metadata": {
+                "detected_text": [],
+                "min_value": 0,
+                "max_value": 30,
+                "unit": "\u00b0"
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-604032488-612x612_jpg.rf.3ii4ShA81LnKy7rYakuC.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.1971848011016846,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-668031088-612x612_jpg.rf.8UrlwDF5oeH14iy8VOuc.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.193103551864624,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/istockphoto-856286158-612x612_jpg.rf.Ww26zRXwW3raE4NfgpjA.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.378816843032837,
+            "metadata": {
+                "detected_text": [
+                    "2",
+                    "15",
+                    "0.5",
+                    "400",
+                    "760"
+                ],
+                "min_value": 0,
+                "max_value": 760,
+                "unit": "mm Hg"
+            }
+        },
+        {
+            "image_path": "test/images/meter_865_jpg.rf.A90eZCS1U5mZH3HwghPR.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.8165409564971924,
+            "metadata": {
+                "detected_text": [
+                    "HONGQI",
+                    "\u538b\u529b\u8868"
+                ],
+                "min_value": 0,
+                "max_value": 25,
+                "unit": "MPa"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_112_jpg.rf.hFNk31Nei8hPHjFz3HaC.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.424741268157959,
+            "metadata": {
+                "detected_text": [
+                    "0 bar"
+                ],
+                "min_value": 0,
+                "max_value": 10,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_123_jpg.rf.wWKCFG2fvC7BSeGV45la.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.1959924697875977,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_14_jpg.rf.xcEPW4tOTkHfEm2gB4cK.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.479870557785034,
+            "metadata": {
+                "detected_text": [
+                    "200",
+                    "100",
+                    "300",
+                    "400",
+                    "mbar"
+                ],
+                "min_value": 100,
+                "max_value": 400,
+                "unit": "mbar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_154_jpg.rf.qac5yHRIL7KxkvvIjWNA.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.002840042114258,
+            "metadata": {
+                "detected_text": [
+                    "A65 Lese Brunner",
+                    "0 100 200 300",
+                    "KPa psi",
+                    "0 100 200 300"
+                ],
+                "min_value": 0,
+                "max_value": 300,
+                "unit": "psi"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_176_jpg.rf.nloxdbKzoRwPLjrDvIj4.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.6075730323791504,
+            "metadata": {
+                "detected_text": [
+                    "50",
+                    "40",
+                    "30",
+                    "20",
+                    "10",
+                    "0",
+                    "bar",
+                    "psi"
+                ],
+                "min_value": 0,
+                "max_value": 50,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_191_jpg.rf.g1Wb0V09U7lBnw2H7NXo.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.1956067085266113,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_212_jpg.rf.n39HWPwdPVnDt0XSVqD7.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.3564817905426025,
+            "metadata": {
+                "detected_text": [
+                    "0",
+                    "10",
+                    "20",
+                    "30",
+                    "40",
+                    "50",
+                    "60",
+                    "70",
+                    "80",
+                    "90",
+                    "100",
+                    "bar"
+                ],
+                "min_value": 0,
+                "max_value": 100,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_221_jpg.rf.5ZrkyL9sK1iWSuvfmGXI.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.312028408050537,
+            "metadata": {
+                "detected_text": [
+                    "WIKIAX",
+                    "10",
+                    "8",
+                    "6",
+                    "4",
+                    "2"
+                ],
+                "min_value": 0,
+                "max_value": 10,
+                "unit": "Pa"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_237_jpg.rf.LXgb38teZyd0w0F5kAtp.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.9956326484680176,
+            "metadata": {
+                "detected_text": [
+                    "ABS TIRE PRESSURE INDICATOR",
+                    "1000",
+                    "psi",
+                    "6000",
+                    "KPA",
+                    "4000",
+                    "200"
+                ],
+                "min_value": 0,
+                "max_value": 1000,
+                "unit": "psi"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_255_jpg.rf.jOcRTHMuVcU3mNeyQmbN.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.1470048427581787,
+            "metadata": {
+                "detected_text": [
+                    "EN 037",
+                    "bar",
+                    "c:1.6",
+                    "WIKA"
+                ],
+                "min_value": null,
+                "max_value": null,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_280_jpg.rf.BHLse606VNaCxlJlEyBH.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.271681785583496,
+            "metadata": {
+                "detected_text": [
+                    "5",
+                    "4",
+                    "3",
+                    "2",
+                    "1",
+                    "0",
+                    "bar"
+                ],
+                "min_value": 0,
+                "max_value": 5,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_291_jpg.rf.OFf0epm2b0PPUJrwf6pE.jpg",
+            "status": "success",
+            "elapsed_seconds": 16.929841995239258,
+            "metadata": {
+                "detected_text": [],
+                "min_value": null,
+                "max_value": null,
+                "unit": null
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_30_jpg.rf.csqrt7WxMUVxo5pVe9ZW.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.803255796432495,
+            "metadata": {
+                "detected_text": [
+                    "EN 037",
+                    "10",
+                    "8",
+                    "6",
+                    "4",
+                    "2",
+                    "0",
+                    "bar",
+                    "0.1"
+                ],
+                "min_value": 0,
+                "max_value": 10,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_324_jpg.rf.j1iX3J5d9fdrRjBi5v9S.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.848750114440918,
+            "metadata": {
+                "detected_text": [
+                    "4",
+                    "3",
+                    "2",
+                    "1",
+                    "0",
+                    "bar"
+                ],
+                "min_value": 0,
+                "max_value": 4,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_340_jpg.rf.bONpnvF45MAIN6nzj15R.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.236168622970581,
+            "metadata": {
+                "detected_text": [
+                    "YATO",
+                    "100\u00d7kPa",
+                    "psi",
+                    "0.25"
+                ],
+                "min_value": 0,
+                "max_value": 160,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_359_jpg.rf.JmwLYfh25ZHgwUxcBf2O.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.0785317420959473,
+            "metadata": {
+                "detected_text": [
+                    "MERLIN",
+                    "160",
+                    "psi",
+                    "kPa"
+                ],
+                "min_value": 0,
+                "max_value": 160,
+                "unit": "psi"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_382_jpg.rf.1sEaTquEh3C197KyuDL9.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.0158376693725586,
+            "metadata": {
+                "detected_text": [
+                    "Baumet",
+                    "kg/cm\u00b2",
+                    "psi"
+                ],
+                "min_value": 0,
+                "max_value": 100,
+                "unit": "kg/cm\u00b2"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_38_jpg.rf.LHDG7UoSNRTg4xPpaxUD.jpg",
+            "status": "success",
+            "elapsed_seconds": 3.0632574558258057,
+            "metadata": {
+                "detected_text": [
+                    "150",
+                    "200",
+                    "15",
+                    "10",
+                    "5",
+                    "0",
+                    "300",
+                    "kg/cm\u00b2",
+                    "lb/in\u00b2"
+                ],
+                "min_value": 0,
+                "max_value": 300,
+                "unit": "kg/cm\u00b2"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_419_jpg.rf.gCHYGGvW7aTu7Qwxp7aC.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.6375339031219482,
+            "metadata": {
+                "detected_text": [
+                    "KONTEC",
+                    "TOOL",
+                    "10",
+                    "bar",
+                    "EN 837-1",
+                    "KL1,5"
+                ],
+                "min_value": 0,
+                "max_value": 10,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_53_jpg.rf.MahAkc8TKMrCw1IcDaRV.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.003166913986206,
+            "metadata": {
+                "detected_text": [
+                    "SVIHEN",
+                    "air",
+                    "bar",
+                    "psi"
+                ],
+                "min_value": 0,
+                "max_value": 220,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_75_jpg.rf.M5Yjn0hzDXaINF40GBSV.jpg",
+            "status": "success",
+            "elapsed_seconds": 1.7489917278289795,
+            "metadata": {
+                "detected_text": [
+                    "WABCO",
+                    "10"
+                ],
+                "min_value": 0,
+                "max_value": 16,
+                "unit": "bar"
+            }
+        },
+        {
+            "image_path": "test/images/pressureGauge_87_jpg.rf.5N5V3aU3VdgIkEPSo2Qd.jpg",
+            "status": "success",
+            "elapsed_seconds": 2.199444532394409,
+            "metadata": {
+                "detected_text": [
+                    "50",
+                    "100",
+                    "150",
+                    "mbar"
+                ],
+                "min_value": 50,
+                "max_value": 150,
+                "unit": "mbar"
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "detected_text": [
+        "50",
+        "40",
+        "30",
+        "20",
+        "10",
+        "0",
+        "bar",
+        "psi"
+    ],
+    "min_value": 0,
+    "max_value": 50,
+    "unit": "bar"
+}

@@ -1,0 +1,9 @@
+{
+    "detected_text": [
+        "WABCO",
+        "10"
+    ],
+    "min_value": 0,
+    "max_value": 16,
+    "unit": "bar"
+}

@@ -1,0 +1,14 @@
+{
+    "detected_text": [
+        "5",
+        "4",
+        "3",
+        "2",
+        "1",
+        "0",
+        "bar"
+    ],
+    "min_value": 0,
+    "max_value": 5,
+    "unit": "bar"
+}

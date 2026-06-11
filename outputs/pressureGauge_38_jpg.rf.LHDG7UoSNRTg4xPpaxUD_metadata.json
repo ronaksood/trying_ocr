@@ -1,0 +1,16 @@
+{
+    "detected_text": [
+        "150",
+        "200",
+        "15",
+        "10",
+        "5",
+        "0",
+        "300",
+        "kg/cm\u00b2",
+        "lb/in\u00b2"
+    ],
+    "min_value": 0,
+    "max_value": 300,
+    "unit": "kg/cm\u00b2"
+}

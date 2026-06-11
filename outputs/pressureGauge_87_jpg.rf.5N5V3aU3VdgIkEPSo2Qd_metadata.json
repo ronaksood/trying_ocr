@@ -1,0 +1,11 @@
+{
+    "detected_text": [
+        "50",
+        "100",
+        "150",
+        "mbar"
+    ],
+    "min_value": 50,
+    "max_value": 150,
+    "unit": "mbar"
+}

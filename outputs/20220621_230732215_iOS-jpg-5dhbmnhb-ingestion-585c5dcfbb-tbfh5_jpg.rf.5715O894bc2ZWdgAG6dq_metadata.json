@@ -1,0 +1,11 @@
+{
+    "detected_text": [
+        "150",
+        "210",
+        "270",
+        "330"
+    ],
+    "min_value": 0,
+    "max_value": 400,
+    "unit": "mm"
+}

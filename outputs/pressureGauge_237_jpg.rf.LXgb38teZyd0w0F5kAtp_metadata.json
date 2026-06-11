@@ -1,0 +1,14 @@
+{
+    "detected_text": [
+        "ABS TIRE PRESSURE INDICATOR",
+        "1000",
+        "psi",
+        "6000",
+        "KPA",
+        "4000",
+        "200"
+    ],
+    "min_value": 0,
+    "max_value": 1000,
+    "unit": "psi"
+}

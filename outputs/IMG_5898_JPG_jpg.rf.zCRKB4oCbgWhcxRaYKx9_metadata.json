@@ -1,0 +1,11 @@
+{
+    "detected_text": [
+        "02",
+        "04",
+        "06",
+        "08"
+    ],
+    "min_value": 0,
+    "max_value": 8,
+    "unit": "kg"
+}

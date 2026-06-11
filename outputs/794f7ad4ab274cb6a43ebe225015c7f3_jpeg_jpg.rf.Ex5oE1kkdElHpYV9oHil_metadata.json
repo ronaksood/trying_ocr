@@ -1,0 +1,12 @@
+{
+    "detected_text": [
+        "46",
+        "50",
+        "52",
+        "HERTZ",
+        "54"
+    ],
+    "min_value": 46,
+    "max_value": 54,
+    "unit": "Hertz"
+}

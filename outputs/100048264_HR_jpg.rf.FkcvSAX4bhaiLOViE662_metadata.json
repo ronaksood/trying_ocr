@@ -1,0 +1,9 @@
+{
+    "detected_text": [
+        "CAUTION",
+        "DO NOT OPERATE UNTIL YOU HAVE READ INSTRUCTIONS"
+    ],
+    "min_value": 0.5,
+    "max_value": 15,
+    "unit": "g/cm\u00b2"
+}

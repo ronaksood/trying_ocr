@@ -1,0 +1,13 @@
+{
+    "detected_text": [
+        "WIKIAX",
+        "10",
+        "8",
+        "6",
+        "4",
+        "2"
+    ],
+    "min_value": 0,
+    "max_value": 10,
+    "unit": "Pa"
+}

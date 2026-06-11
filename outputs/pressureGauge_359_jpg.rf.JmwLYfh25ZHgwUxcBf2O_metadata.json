@@ -1,0 +1,11 @@
+{
+    "detected_text": [
+        "MERLIN",
+        "160",
+        "psi",
+        "kPa"
+    ],
+    "min_value": 0,
+    "max_value": 160,
+    "unit": "psi"
+}

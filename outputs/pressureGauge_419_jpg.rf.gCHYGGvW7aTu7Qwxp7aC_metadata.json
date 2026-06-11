@@ -1,0 +1,13 @@
+{
+    "detected_text": [
+        "KONTEC",
+        "TOOL",
+        "10",
+        "bar",
+        "EN 837-1",
+        "KL1,5"
+    ],
+    "min_value": 0,
+    "max_value": 10,
+    "unit": "bar"
+}

@@ -1,0 +1,10 @@
+{
+    "detected_text": [
+        "Baumet",
+        "kg/cm\u00b2",
+        "psi"
+    ],
+    "min_value": 0,
+    "max_value": 100,
+    "unit": "kg/cm\u00b2"
+}
